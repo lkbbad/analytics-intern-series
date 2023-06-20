@@ -1,4 +1,4 @@
-# Data Science &; Analytics Intern Series, Summer 2023
+# Data Science & Analytics Intern Series, Summer 2023
 
 https://github.com/lkbbad/analytics-intern-series/
 
